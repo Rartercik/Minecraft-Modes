@@ -1,0 +1,251 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_hi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hi
+  m_SharedData: {fileID: 11400000, guid: cc77470d3a6d19946a7b4ab5b286ecb4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 862045550669824
+    m_Localized: 'Mod: Jurassic Masquerade
+
+
+
+      Dinosaurs, mighty giants, inhabited
+      the Earth more than 60 million years ago. If the extinction of species had
+      not occurred, they could surely have wiped out all creatures. You can check
+      this out with the Jurassic mod for Bedrock Minecraft. Introduce the most dangerous
+      reptiles into the block world and test how long you can resist these monsters.
+
+
+      Fossil
+      ore is a new type of blocks created everywhere. Creating a dinosaur will start
+      with mining ore.
+
+
+      Different types of fossils and remains are available.
+
+
+      Permafrost
+      allows you to collect ore from recently deceased animals, such as the bones
+      of Dodo or Smilodon, which is also known as a saber-toothed tiger.
+
+
+      DNA:
+      a number of items are needed to obtain DNA.
+
+
+      A workbench, a light gray
+      carpet, and unknown remains are the components used to separate the remains
+      from dirt or gravel using a sieve.
+
+
+      Extractions: To extract the DNA
+      from the remains, you will need a Kraft extractor consisting of seven smooth
+      stones, a redstone, and a syringe. The DNA needs to be extracted into a storage
+      disk, and then enhance that disk before extracting it into the syringe.
+
+
+      A
+      cultivator is used to obtain spun eggs. It consists of six smooth stones and
+      a glass block. You must take the DNA and combine it with the dinosaur egg.
+      For mammals, you have to put the DNA in the cultivator, get a new kind of syringe,
+      interact with the pig and wait.
+
+
+      Frozen Dodo meat comes from permafrost
+      and is used as a weapon because it is very tough, you can thaw it and get meat.
+
+
+      The
+      Dilophosaurus does nine damage, the wolf''s speed is six blocks long and two
+      blocks high. Cooked or raw meat is used for taming. It is possible to tether
+      it with a leash, but this is difficult to do.
+
+
+      Velociraptors are similar
+      to wolves, can tame and control a bone, sleep during the day and reproduce
+      with meat.
+
+
+      Pteranodon can fly, are controlled by a nautilus shell and
+      are food for fish.
+
+
+      The new version has added dinosaurs, armor, improved
+      health and mob fights, removed some items, fixed bugs and many other minor
+      changes and improvements.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 861327376773120
+    m_Localized: 'Mod: Ark Mobs
+
+
+
+      With the Arkcraft mod, there will be a lot
+      of new things in MCPE, including blocks and mobs. The addition will add variety
+      as well as improve gameplay. Meet your upcoming neighbors and learn about new
+      blocks and items taken from the Ark game.
+
+
+      Everything is done on the
+      kitchen table.
+
+
+      Animal feed is used to raise certain types of animals
+      such as aquatic, carnivores, herbivores, and arthropods.
+
+
+      Tools: Cat
+      hook and hook: used to lift and move quickly; Crossbow and soporific arrows:
+      used to stun dinosaurs.
+
+
+      Kompi turns into a Velonosaurus egg thanks
+      to the R vaccine.
+
+
+      Thermal wool can be obtained by feeding dimetrodon
+      wool. This wool is used to hatch Velonosaurus or Magmasaurus eggs.
+
+
+      Poisonous
+      ammonites, also known as green ammonites, can be extracted from a bowl of sleeping
+      pills. It is made from soporific berries and rotting meat.
+
+
+      Scargotha
+      mucus eliminates nausea and helps regenerate
+
+
+      Ankylosaurus is an aggressive
+      predator that deals more damage to sauropods and replaces algae with moss when
+      attacking. Taming: it needs to be stunned with a crossbow and soporific arrows,
+      then fed. It can ride (medium predator saddle) and use its whip abilities.
+
+
+      Gualicho
+      is very strong, dangerous in a pack, and can walk on loose snow. To feed him,
+      he must be stunned with a crossbow and soporific arrows. He can also ride a
+      large raptor saddle and use a whip.
+
+
+      Argentavis aggressive flies and
+      does not stop until it catches up to the player. Taming: can be made to make
+      the mob stuck, making it easy to tame. Effect: desiccation: allows you to ride
+      the argentavis saddle and use its whip abilities.
+
+
+      Carnotaurus increases
+      his speed and strength in a moment of rage, and imposes desiccation. When he
+      rides (on a large raptor saddle), he becomes slower but gains resistance effect
+      2.
+
+      Active
+
+
+      Llukalkan is a very fast mob. It works as a radar.
+      A brigand''s sound points to an outpost within 500 blocks, a villager''s sound
+      points to an igloo or village within 500 blocks, and a champion''s sound points
+      to a mansion or outpost within 500 blocks. The aggressive can ride (medium
+      predator saddle) and use a whip.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863393314762752
+    m_Localized: Modes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863827127431168
+    m_Localized: Instruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 864198751154176
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865060781289472
+    m_Localized: '**Privacy Policy**
+
+      
+
+      Your trust is important to
+      us and we are committed to protecting your personal information. This Minecraft
+      mod installer application (the "Application") collects a minimal amount of
+      data to ensure its functionality.
+
+      
+
+      **Data Collection**: The
+      App may collect the following data: IP address, device information, operating
+      system and Minecraft version. We do not collect personal information such as
+      name, address or contact information.
+
+      
+
+      **Data Use**: The data
+      collected is used solely to optimize the Application and improve the user experience.
+      We do not share your information with third parties without your consent, except
+      as required by law.
+
+      
+
+      **Security**: We employ state-of-the-art
+      security measures to protect your information from unauthorized access, alteration
+      or destruction.
+
+      
+
+      **Policy Changes**: We reserve the right to
+      change this privacy policy at any time. Any changes will be posted on this
+      page.
+
+      
+
+      **Contacts**: If you have any questions or suggestions
+      about our privacy policy, please contact us through the Contact Us section
+      of the Appendix.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865891635163136
+    m_Localized: "Instructions for installing mods for Minecraft\r\n\r\n1. **Downloading
+      Mods**: Find and download the mods you need from trusted sites such as CurseForge
+      or Planet Minecraft. Make sure the version of the mod matches the version of
+      your game.\r\n\r\n2. **Install Forge**: Most mods will require Minecraft Forge
+      to work. Download and install it by following the instructions on the official
+      website. \r\n\r\n3. **Mods Folder**: Open the Minecraft folder. To do this,
+      press Win+R and type `%appdata%\\.minecraft`. In this folder, create a `mods`
+      folder if it does not exist.\r\n\r\n4. **Moving Mods**: Move the downloaded
+      mod files to the `mods` folder.\r\n\r\n5. **Starting the game**: Open Minecraft
+      Launcher and select the Forge profile. Run the game to make sure the mods are
+      working.\r\n\r\n6. **Check and Customize**: After launching the game, go to
+      the \"Mods\" section of the main menu to make sure mods are active. Customize
+      the mods if necessary.\r\n\r\n7. **Compatibility**: Make sure all installed
+      mods are compatible with each other and the game version to avoid conflicts
+      and crashes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866328933298176
+    m_Localized: Politics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866756504842240
+    m_Localized: Instruction
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

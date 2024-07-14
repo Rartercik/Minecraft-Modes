@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: cc77470d3a6d19946a7b4ab5b286ecb4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 862045550669824
+    m_Localized: "Mod: Jurassic Masquerade\r\n\r\n\r\nDinozaury, pot\u0119\u017Cne
+      olbrzymy, \u017Cy\u0142y na Ziemi ponad 60 milion\xF3w lat temu. Gdyby nie
+      dosz\u0142o do wygini\u0119cia gatunk\xF3w, z pewno\u015Bci\u0105 mog\u0142yby
+      wymaza\u0107 wszystkie stworzenia. Mo\u017Cesz to sprawdzi\u0107 dzi\u0119ki
+      modowi Jurassic dla Bedrock Minecraft. Wprowad\u017A najniebezpieczniejsze
+      gady do \u015Bwiata blok\xF3w i sprawd\u017A, jak d\u0142ugo mo\u017Cesz opiera\u0107
+      si\u0119 tym potworom.\r\n\r\nRuda skamienia\u0142o\u015Bci to nowy rodzaj
+      blok\xF3w tworzonych wsz\u0119dzie. Tworzenie dinozaura rozpocznie si\u0119
+      od wydobycia rudy.\r\n\r\nDost\u0119pne s\u0105 r\xF3\u017Cne rodzaje skamienia\u0142o\u015Bci
+      i szcz\u0105tk\xF3w.\r\n\r\nWieczna zmarzlina pozwala zbiera\u0107 rud\u0119
+      z niedawno zmar\u0142ych zwierz\u0105t, takich jak ko\u015Bci Dodo lub Smilodon,
+      kt\xF3ry jest r\xF3wnie\u017C znany jako tygrys szabloz\u0119bny.\r\nDNA: do
+      pozyskania DNA wymagany jest szereg przedmiot\xF3w.\r\n\r\nSt\xF3\u0142 warsztatowy,
+      jasnoszary dywan i nieznane szcz\u0105tki to elementy u\u017Cywane do oddzielenia
+      szcz\u0105tk\xF3w od brudu lub \u017Cwiru za pomoc\u0105 sita.\r\n\r\nEkstrakcja:
+      Aby wyodr\u0119bni\u0107 DNA ze szcz\u0105tk\xF3w, potrzebny b\u0119dzie ekstraktor
+      Krafta sk\u0142adaj\u0105cy si\u0119 z siedmiu g\u0142adkich kamieni, czerwonego
+      kamienia i strzykawki. DNA nale\u017Cy wyekstrahowa\u0107 do dysku do przechowywania,
+      a nast\u0119pnie wzmocni\u0107 ten dysk przed wyekstrahowaniem go do strzykawki.\r\n\r\nKultywator
+      jest u\u017Cywany do uzyskania wiruj\u0105cych jaj. Sk\u0142ada si\u0119 on
+      z sze\u015Bciu g\u0142adkich kamieni i szklanego bloku. Nale\u017Cy pobra\u0107
+      DNA i po\u0142\u0105czy\u0107 je z jajem dinozaura. W przypadku ssak\xF3w nale\u017Cy
+      umie\u015Bci\u0107 DNA w kultywatorze, zdoby\u0107 nowy rodzaj strzykawki,
+      wej\u015B\u0107 w interakcj\u0119 ze \u015Bwini\u0105 i czeka\u0107.\r\n\r\nZamro\u017Cone
+      mi\u0119so Dodo pochodzi z wiecznej zmarzliny i jest u\u017Cywane jako bro\u0144,
+      poniewa\u017C jest bardzo twarde, mo\u017Cna je rozmrozi\u0107 i uzyska\u0107
+      mi\u0119so.\r\n\r\nDilofozaur zadaje dziewi\u0119\u0107 obra\u017Ce\u0144,
+      pr\u0119dko\u015B\u0107 wilka wynosi sze\u015B\u0107 blok\xF3w d\u0142ugo\u015Bci
+      i dwa bloki wysoko\u015Bci. Do oswajania u\u017Cywa si\u0119 gotowanego lub
+      surowego mi\u0119sa. Mo\u017Cliwe jest uwi\u0105zanie go na smyczy, ale jest
+      to trudne do wykonania.\r\n\r\nWelociraptory s\u0105 podobne do wilk\xF3w,
+      mog\u0105 oswaja\u0107 i kontrolowa\u0107 ko\u015B\u0107, spa\u0107 w ci\u0105gu
+      dnia i rozmna\u017Ca\u0107 si\u0119 za pomoc\u0105 mi\u0119sa.\r\n\r\nPteranodony
+      potrafi\u0105 lata\u0107, s\u0105 kontrolowane przez muszl\u0119 nautilusa
+      i s\u0105 po\u017Cywieniem dla ryb.\r\n\r\nW nowej wersji dodano dinozaury,
+      pancerze, poprawiono zdrowie i walki z mobami, usuni\u0119to niekt\xF3re przedmioty,
+      naprawiono b\u0142\u0119dy i wprowadzono wiele innych drobnych zmian i ulepsze\u0144.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 861327376773120
+    m_Localized: "Dzi\u0119ki modowi Arkcraft w MCPE pojawi si\u0119 wiele nowych
+      rzeczy, w tym bloki i moby. Dodatek urozmaici, a tak\u017Ce usprawni rozgrywk\u0119.
+      Poznaj nadchodz\u0105cych s\u0105siad\xF3w i dowiedz si\u0119 o nowych blokach
+      i przedmiotach zaczerpni\u0119tych z gry Ark.\r\n\r\nWszystko odbywa si\u0119
+      na kuchennym stole.\r\n\r\nPasza dla zwierz\u0105t s\u0142u\u017Cy do hodowania
+      okre\u015Blonych rodzaj\xF3w zwierz\u0105t, takich jak zwierz\u0119ta wodne,
+      mi\u0119so\u017Cerne, ro\u015Blino\u017Cerne i stawonogi.\r\n\r\nNarz\u0119dzia:
+      Hak na koty i hak: u\u017Cywane do podnoszenia i szybkiego przemieszczania;
+      Kusza i strza\u0142y soporowe: u\u017Cywane do og\u0142uszania dinozaur\xF3w.\r\n\r\nKompi
+      zamienia si\u0119 w jajo welonozaura dzi\u0119ki szczepionce R.\r\n\r\nWe\u0142n\u0119
+      termiczn\u0105 mo\u017Cna uzyska\u0107 poprzez karmienie we\u0142n\u0105 dimetrodona.
+      We\u0142na ta s\u0142u\u017Cy do wykluwania jaj welonozaura lub magmasaura.\r\n\r\nTruj\u0105ce
+      amonity, znane r\xF3wnie\u017C jako zielone amonity, mo\u017Cna wydoby\u0107
+      z miski tabletek nasennych. Jest on wytwarzany z usypiaj\u0105cych jag\xF3d
+      i gnij\u0105cego mi\u0119sa.\r\n\r\n\u015Aluz Scargotha eliminuje md\u0142o\u015Bci
+      i pomaga si\u0119 zregenerowa\u0107\r\n\r\nAnkylosaurus to agresywny drapie\u017Cnik,
+      kt\xF3ry zadaje wi\u0119ksze obra\u017Cenia zauropodom, a podczas ataku zast\u0119puje
+      glony mchem. Oswajanie: trzeba go og\u0142uszy\u0107 kusz\u0105 i strza\u0142ami
+      usypiaj\u0105cymi, a nast\u0119pnie nakarmi\u0107. Potrafi je\u017Adzi\u0107
+      konno (\u015Brednie siod\u0142o drapie\u017Cnika) i korzysta\u0107 z umiej\u0119tno\u015Bci
+      bicza.\r\n\r\nGualicho jest bardzo silny, niebezpieczny w stadzie i potrafi
+      chodzi\u0107 po sypkim \u015Bniegu. Aby go nakarmi\u0107, nale\u017Cy go og\u0142uszy\u0107
+      kusz\u0105 i strza\u0142ami usypiaj\u0105cymi. Potrafi r\xF3wnie\u017C je\u017Adzi\u0107
+      na du\u017Cym siodle raptora i u\u017Cywa\u0107 bata.\r\n\r\nArgentavis agresywnie
+      lata i nie zatrzymuje si\u0119, dop\xF3ki nie dogoni gracza. Oswajanie: mo\u017Cna
+      sprawi\u0107, \u017Ce mob utknie, dzi\u0119ki czemu b\u0119dzie \u0142atwy
+      do oswojenia. Efekt: wysuszenie: pozwala dosiada\u0107 Argentavisa w siodle
+      i korzysta\u0107 z jego zdolno\u015Bci bicza.\r\n\r\nCarnotaurus zwi\u0119ksza
+      szybko\u015B\u0107 i si\u0142\u0119 w chwili w\u015Bciek\u0142o\u015Bci oraz
+      nak\u0142ada wysuszenie. Kiedy jedzie (na du\u017Cym siodle raptora), staje
+      si\u0119 wolniejszy, ale zyskuje efekt odporno\u015Bci 2.\r\nAktywny\r\n\r\nLlukalkan
+      to bardzo szybki mob. Dzia\u0142a jak radar. D\u017Awi\u0119k bandyty wskazuje
+      plac\xF3wk\u0119 w promieniu 500 przecznic, d\u017Awi\u0119k wie\u015Bniaka
+      wskazuje igloo lub wiosk\u0119 w promieniu 500 przecznic, a d\u017Awi\u0119k
+      czempiona wskazuje rezydencj\u0119 lub plac\xF3wk\u0119 w promieniu 500 przecznic.
+      Agresywny mo\u017Ce je\u017Adzi\u0107 konno (\u015Brednie siod\u0142o drapie\u017Cnika)
+      i u\u017Cywa\u0107 bata.\r\n\r\nPrzet\u0142umaczono z DeepL.com (wersja darmowa)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863393314762752
+    m_Localized: Modyfikacje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 863827127431168
+    m_Localized: Instrukcja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 864198751154176
+    m_Localized: "Polityka prywatno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865060781289472
+    m_Localized: "**Polityka prywatno\u015Bci**\r\n\r\nTwoje zaufanie jest dla nas
+      wa\u017Cne i jeste\u015Bmy zobowi\u0105zani do ochrony Twoich danych osobowych.
+      Ta aplikacja instalatora mod\xF3w Minecraft (\"Aplikacja\") zbiera minimaln\u0105
+      ilo\u015B\u0107 danych, aby zapewni\u0107 jej funkcjonalno\u015B\u0107.\r\n\r\n**Gromadzenie
+      danych**: Aplikacja mo\u017Ce gromadzi\u0107 nast\u0119puj\u0105ce dane: adres
+      IP, informacje o urz\u0105dzeniu, system operacyjny i wersja gry Minecraft.
+      Nie gromadzimy danych osobowych, takich jak imi\u0119 i nazwisko, adres lub
+      dane kontaktowe.\r\n\r\n**Wykorzystanie danych**: Zebrane dane s\u0105 wykorzystywane
+      wy\u0142\u0105cznie w celu optymalizacji Aplikacji i poprawy do\u015Bwiadczenia
+      u\u017Cytkownika. Nie udost\u0119pniamy danych u\u017Cytkownika stronom trzecim
+      bez jego zgody, z wyj\u0105tkiem przypadk\xF3w wymaganych przez prawo.\r\n\r\n**Bezpiecze\u0144stwo**:
+      Stosujemy najnowocze\u015Bniejsze \u015Brodki bezpiecze\u0144stwa w celu ochrony
+      informacji u\u017Cytkownika przed nieuprawnionym dost\u0119pem, zmian\u0105
+      lub zniszczeniem.\r\n\r\n**Zmiany zasad**: Zastrzegamy sobie prawo do zmiany
+      niniejszej polityki prywatno\u015Bci w dowolnym momencie. Wszelkie zmiany b\u0119d\u0105
+      publikowane na tej stronie.\r\n\r\n**Kontakty**: Je\u015Bli masz jakiekolwiek
+      pytania lub sugestie dotycz\u0105ce naszej polityki prywatno\u015Bci, skontaktuj
+      si\u0119 z nami za po\u015Brednictwem sekcji Kontakt w Za\u0142\u0105czniku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865891635163136
+    m_Localized: "Instrukcje instalacji mod\xF3w do gry Minecraft\r\n\r\n1. **Pobieranie
+      mod\xF3w**: Znajd\u017A i pobierz potrzebne mody z zaufanych stron, takich
+      jak CurseForge lub Planet Minecraft. Upewnij si\u0119, \u017Ce wersja moda
+      jest zgodna z wersj\u0105 gry.\r\n\r\n2. **Zainstaluj Forge**: Wi\u0119kszo\u015B\u0107
+      mod\xF3w wymaga do dzia\u0142ania Minecraft Forge. Pobierz i zainstaluj go
+      zgodnie z instrukcjami na oficjalnej stronie. \r\n\r\n3. **Folder mod\xF3w**:
+      Otw\xF3rz folder Minecraft. Aby to zrobi\u0107, naci\u015Bnij Win+R i wpisz
+      `%appdata%\\.minecraft`. W tym folderze utw\xF3rz folder `mods`, je\u015Bli
+      jeszcze nie istnieje.\r\n\r\n4. **Przenoszenie mod\xF3w**: Przenie\u015B pobrane
+      pliki mod\xF3w do folderu `mods`.\r\n\r\n5. **Uruchomienie gry**: Otw\xF3rz
+      Minecraft Launcher i wybierz profil Forge. Uruchom gr\u0119, aby upewni\u0107
+      si\u0119, \u017Ce mody dzia\u0142aj\u0105.\r\n\r\n6. **Testowanie i dostosowywanie**:
+      Po uruchomieniu gry przejd\u017A do sekcji \"Mody\" w menu g\u0142\xF3wnym,
+      aby upewni\u0107 si\u0119, \u017Ce mody s\u0105 aktywne. Dostosuj mody, je\u015Bli
+      to konieczne.\r\n\r\n7. **Kompatybilno\u015B\u0107**: Upewnij si\u0119, \u017Ce
+      wszystkie zainstalowane mody s\u0105 kompatybilne ze sob\u0105 i z wersj\u0105
+      gry, aby unikn\u0105\u0107 konflikt\xF3w i awarii."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866328933298176
+    m_Localized: Polityka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866756504842240
+    m_Localized: Instrukcja
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
